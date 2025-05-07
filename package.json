@@ -13,7 +13,7 @@
     "email": "abror.abdullaev@newproweb.com"
   },
   "peerDependencies": {
-    "@strapi/strapi": "^4.25.19"
+    "@strapi/strapi": "^4"
   },
   "repository": {
     "type": "git",
