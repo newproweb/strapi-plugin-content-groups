@@ -1,0 +1,29 @@
+{
+  "name": "strapi-plugin-content-groups",
+  "version": "4.0.0",
+  "description": "The categorized content items",
+  "strapi": {
+    "name": "content-groups",
+    "displayName": "The categorized content items",
+    "description": "The categorized content items",
+    "kind": "plugin"
+  },
+  "author": {
+    "name": "NewProWeb<Abror Abdullaev>",
+    "email": "abror.abdullaev@newproweb.com"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.25.19"
+  },
+  "maintainers": [
+    {
+      "name": "NewProWeb",
+      "email": "abror.abdullaev@newproweb.com"
+    }
+  ],
+  "engines": {
+    "node": ">=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
